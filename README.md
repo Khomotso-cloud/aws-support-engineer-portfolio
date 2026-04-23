@@ -27,6 +27,8 @@ Built a secure AWS VPC with public and private subnets to simulate a real-world 
 
 <img width="1349" height="417" alt="image" src="https://github.com/user-attachments/assets/6bc26cbd-1758-4865-a7da-0d2db9d311bd" />
 
+<img width="1357" height="374" alt="image" src="https://github.com/user-attachments/assets/6393d201-b767-4090-90ec-e110fd5c3cf1" />
+
 
 ## Key Learnings
 - Difference between public and private subnets
