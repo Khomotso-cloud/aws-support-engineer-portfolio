@@ -23,6 +23,9 @@ Built a secure AWS VPC with public and private subnets to simulate a real-world 
 - Private EC2 internet access via NAT ✅
 
 ## 📸 Screenshots
+<img width="1339" height="391" alt="image" src="https://github.com/user-attachments/assets/2bca82ec-76b5-4288-b0d0-b58fd3c3f7af" />
+
+<img width="1349" height="417" alt="image" src="https://github.com/user-attachments/assets/6bc26cbd-1758-4865-a7da-0d2db9d311bd" />
 
 
 ## Key Learnings
